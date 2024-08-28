@@ -1,0 +1,12 @@
+_id,numero_wpp,FLAG_NEGATIVACAO_JORNADA,PROBLEMA,MOTIVO,NEGATIV_AVISADO,NEGATIV_VALOR,NEGATIV_MAIOR_5_ANOS,NEGATIV_NOME_EMPRESA,NOME,CIDADE_ESTADO
+66a9644a9986a870670bbcf6,+556186421816,10,Problemas com Negativação Indevida,,NÃO,5000 - XXXX,NÃO,vivo,gustavo zitta,brasilia df
+66ab730735f662f82515a505,+5539963713953,5,Problemas com Negativação Indevida,SERVICO INDEVIDO,NAO SABE RESPONDER,0000 - 1000,NÃO,,,
+66ab743c35f662f82515a566,+5502957482634,6,Problemas com Negativação Indevida,OUTROS,NAO SABE RESPONDER,0000 - 1000,NÃO,,,
+66abbca235f662f82515cc48,+556904502695,1,Problemas com Negativação Indevida,,,,,,,
+66abbd2f35f662f82515cca2,+5539983152067,2,Problemas com Negativação Indevida,DIVIDA,,,,,,
+66abbdd535f662f82515cd03,+5526929309072,3,Problemas com Negativação Indevida,DIVIDA,NÃO,,,,,
+66abbf3c35f662f82515cdda,+5545924862888,1,Problemas com Negativação Indevida,,,,,,,
+66abc37d35f662f82515d06e,+5547900636394,1,Problemas com Negativação Indevida,,,,,,,
+66abc3a335f662f82515d088,+5545964111812,10,Problemas com Negativação Indevida,DIVIDA,NÃO,1000 - 3000,NÃO,Tim,Antônio Ribeiro,
+66abc53335f662f82515d185,+5581944692336,8,Problemas com Negativação Indevida,DIVIDA,NÃO,0000 - 1000,NÃO,Tim,,
+66abc84235f662f82515d367,+556186346464,9,Problemas com Negativação Indevida,DIVIDA,NÃO,0000 - 1000,SIM,Tim,Luan,Brasilia
